@@ -1,0 +1,8 @@
+GIT: a version control system used for software development to track changes in code over time and collaborate with other developers.
+SQL: a programming language used for managing and manipulating data in relational databases.
+Postman: a popular tool for testing and debugging APIs.
+Fiddler: a web debugging proxy tool used to capture and analyze HTTP/HTTPS traffic between a computer and the internet.
+Android Studio: an integrated development environment (IDE) for developing Android mobile applications.
+Charles: a web proxy tool used to monitor and debug web traffic.
+HTTP: a protocol used for communication between web servers and clients, such as web browsers or mobile apps.
+JSON: a lightweight data interchange format used for storing and exchanging data between a server and a client.

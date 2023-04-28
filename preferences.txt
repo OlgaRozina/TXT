@@ -1,0 +1,4 @@
+eat: pizza 
+film: Interstellar 
+series: Force_majeure 
+time_of_year: summer
