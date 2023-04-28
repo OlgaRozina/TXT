@@ -1,0 +1,6 @@
+name: Olga
+surname: Rozina
+age: 24 
+hobby: hiling 
+country: Lithuania 
+city: Vilnius 
