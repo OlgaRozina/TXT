@@ -43,14 +43,14 @@ city: Vilnius
 press Esc > :wq
 ```
 ***
-## 8. Push changes the an external repository
+## 8. Push changes the an external repository:
 ```
 $ git add .
 $ git commit -m "TXT"
 $ git push
 ```
 ***
-## 9. Create a file "preferences.txt"
+## 9. Create a file "preferences.txt":
 ## 10. In the file "preferences.txt", add information about your preferences in txt format:
 ```
 $ cat > preferences.txt
