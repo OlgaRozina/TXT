@@ -4,18 +4,18 @@
 GitHub > New repository > Create repository 
 ```
 ***
-## 2.Clone the TXT repository to a local machine: 
+## 2. Clone the TXT repository to a local machine: 
 ```
 $ git clone HTTPS
 ```
 ***
-## 3.Inside the local TXT create a “new.txt” file: 
+## 3. Inside the local TXT create a “new.txt” file: 
 ```
 $ cd TXT
 $ touch new.txt
 ```
 ***
-## 4.Add changes to indexed files section: 
+## 4. Add changes to indexed files section: 
 ```
 $ git add touch new.txt
 ```
@@ -25,12 +25,12 @@ $ git add touch new.txt
 $ git commit -m "First commit"
 ```
 ***
-## 6.Push the file to the external GitHub repository: 
+## 6. Push the file to the external GitHub repository: 
 ```
 $ git push
 ```
 ***
-## 7.Edit the content of the file “new.txt” - write information about yourself. Everything is written in txt format:
+## 7. Edit the content of the file “new.txt” - write information about yourself. Everything is written in txt format:
 ```
 $ vim new.txt
 press i
